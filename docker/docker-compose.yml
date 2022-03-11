@@ -9,4 +9,4 @@ services:
     image: gas-setup
     tty: true
     volumes:
-      - ./src:/root/opt
+      - ../src:/root/opt
