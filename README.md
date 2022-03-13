@@ -3,6 +3,7 @@
 ### 共通設定
 ```bash
 cp .env_dist .env
+cp src/mail_dist.txt src/mail.txt
 ```
 .envファイルを設定
 
